@@ -1,3 +1,3 @@
-fromaddr = "ajaj@gmail.com"
-password = ""
-toaddr = "aiai@gmail.com"
+fromaddr = "wewfd@gmail.com"
+password = "wmszmz"
+toaddr = "ssn@gmail.com"
