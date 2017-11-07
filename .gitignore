@@ -1,2 +1,5 @@
 *.pdf
 myPdf/*.pdf
+doc/*/docx
+*.docx
+/*.docx
